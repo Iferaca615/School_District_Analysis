@@ -19,6 +19,16 @@ District Challenge Summary:
 District Module Summary:
 ![school-dist-sum-mod](resources/school-dist-sum-mod.png)
 
+- The average scores from the challenge from the module didn't vary very much at all as you can see from the percentages
+
+## Effects on the School Summary:
+
+School Summary Module:
+![school-summary-module](resources/school-summary-module.png)
+School Summary Challenge:
+![school-summary-challenge](resources/school-summary-challenge)
+
+
 
 
 
