@@ -28,6 +28,23 @@ School Summary Module:
 School Summary Challenge:
 ![school-summary-challenge](resources/school-summary-challenge.png)
 
+- From the images you can clearly see that the average grades for both math and reading were affected by changing the data in the challenge.
+
+### Module data Thomas High School:
+
+* percentage passing (math): 93.2%
+* percentage passing (reading): 97.3%
+* average math score: 83.4
+* average reading score: 83.8
+* Overall passing: 90.9%
+
+### Challenge data Thomas High School:
+
+* percentage passing (math): 66.9%
+* percentage passing (reading): 69.6%
+* average math score: 83.3
+* average reading score: 83.8
+* Overall passing: 65%
 
 
 
