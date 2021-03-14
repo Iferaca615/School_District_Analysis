@@ -15,9 +15,9 @@ In this challenge we wanted to:
 ## Effects on School District Summary:
 
 District Challenge Summary:
-![school-dist-sum-chal](school-dist-sum-chal.png)
+![school-dist-sum-chal](resources/school-dist-sum-chal.png)
 District Module Summary:
-![school-dist-sum-mod](school-dist-sum-mod.png)
+![school-dist-sum-mod](resources/school-dist-sum-mod.png)
 
 
 
