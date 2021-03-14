@@ -26,7 +26,7 @@ District Module Summary:
 School Summary Module:
 ![school-summary-module](resources/school-summary-module.png)
 School Summary Challenge:
-![school-summary-challenge](resources/school-summary-challenge)
+![school-summary-challenge](resources/school-summary-challenge.png)
 
 
 
