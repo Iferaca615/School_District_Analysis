@@ -46,17 +46,17 @@ School Summary Challenge:
 * average reading score: 83.8
 * Overall passing: 65%
 
-** By replacing the ninth graders math and reading scores, their overall passing percentage was at 65% whereas before the grades were substituted, the overall passing percentage was 91%. **
+** By replacing the ninth graders math and reading scores, their overall passing percentage was at 65% whereas before the grades were substituted, the overall passing percentage was 91% **
 
 ## What affect does removing the scores have on the data?
 
 - Replacing the ninth grade math and reading scores overall doesn't have a major effect on  the district summary.  However, there are visible changes within the school summaries.
 
 Based on the changes in the data:
-1) scores by school size remained the same
-2) scores by school spending changed at the $630-$644 range
-3) the percentage passing for both reading and math dropped from the removal of ninth grade grades.
-4) the scores by school type remained the same
+1) Scores by school size remained the same
+2) Scores by school spending changed at the $630-$644 range
+3) The percentage passing for both reading and math dropped from the removal of ninth grade grades.
+4) The scores by school type remained the same
 
 # Major changes in the school analysis after changes
 
