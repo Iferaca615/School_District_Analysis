@@ -46,7 +46,7 @@ School Summary Challenge:
 * average reading score: 83.8
 * Overall passing: 65%
 
-** By replacing the ninth graders math and reading scores, their overall passing percentage was at 65% whereas before the grades were substituted, the overall passing percentage was 91% **
+By replacing the ninth graders math and reading scores, their overall passing percentage was at 65% whereas before the grades were substituted, the overall passing percentage was 91%
 
 ## What affect does removing the scores have on the data?
 
